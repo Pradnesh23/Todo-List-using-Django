@@ -11,5 +11,7 @@ a To-do list organizing website becomes more than just a digital tool—it
 becomes a trusted companion in our journey towards productivity and
 success. From managing daily errands to coordinating complex projects, these
 platforms offer the flexibility, customization, and accessibility needed to
-
 adapt to diverse workflows and preferences.
+
+(https://github.com/user-attachments/assets/ce1e6fe9-2d2d-499d-a89d-ad9abfc3bb97)
+
